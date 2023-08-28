@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./clipstash/Cargo.toml",
+        "./clipstash/Cargo.toml",
+        "./clipstash/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
